@@ -3,7 +3,6 @@ module Test.Main where
 import Prelude
 import Effect (Effect)
 import Effect.Class.Console (log)
-import Effect.Exception (throw)
 import Hby.Tools (safeEffect, showEq)
 
 eff1 :: Effect Unit
