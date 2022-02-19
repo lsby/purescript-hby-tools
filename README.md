@@ -1,0 +1,8 @@
+# purescript-hby-tools
+
+先添加[上游](https://github.com/lsby/purescript-my-upstream)
+
+安装:
+```
+spago install hby-tools
+```
